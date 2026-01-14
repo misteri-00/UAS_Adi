@@ -320,11 +320,10 @@ exports.getMatchDetail = async (req, res) => {
             [id]
         );
 
-        // Gabungkan semua data menjadi satu objek JSON
         res.json({
             ...matchData,
-            scorers_list: scorerRows, // Mengirim sebagai Array objek langsung
-            lineups_list: lineupRows  // Mengirim sebagai Array objek langsung
+            scorers_list: scorerRows, 
+            lineups_list: lineupRows  
         });
 
     } catch (err) {
