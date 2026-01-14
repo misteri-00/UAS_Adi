@@ -28,8 +28,6 @@ router.delete('/news/:id', authController.deleteNews);
 router.get('/matches', authController.getAllMatches); 
 router.get('/matches/latest', authController.getAllMatches);
 
-// Rute Dinamis (menggunakan :id) diletakkan DI BAWAH rute statis
-// Ini untuk memastikan 'latest' tidak dianggap sebagai sebuah 'id'
 router.get('/matches/:id', authController.getMatchDetail);
 
 router.post('/matches', authController.createMatch);
