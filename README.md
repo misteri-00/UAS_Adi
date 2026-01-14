@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-v3.10-blue" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-v2.19-blue" alt="Dart">
-  <img src="https://img.shields.io/badge/Firebase-Backend-orange" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange" alt="NodeJs">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License">
 </p>
 
@@ -59,14 +59,10 @@ Bola News adalah aplikasi berita sepak bola terkini yang dirancang untuk memberi
 |---------------|--------------------|--------------------------------------------|
 | Framework     | Flutter            | ![Flutter](https://img.shields.io/badge/Flutter-v3.10-blue) |
 | Language      | Dart               | ![Dart](https://img.shields.io/badge/Dart-v2.19-blue)       |
-| Backend       | Nodejs             | ![Nodejs](https://img.shields.io/badge/Firebase-Backend-orange) |
+| Backend       | Nodejs             | ![Nodejs](https://img.shields.io/badge/Nodejs-Backend-orange) |
 
 ---
 
-## Screenshots
-| Tampilan Home | Tampilan Berita | Tampilan Klasemen | Tampilan Video |
-|---------------|-----------------|-------------------|----------------|
-| ![Home](https://via.placeholder.com/200) | ![Berita](https://via.placeholder.com/200) | ![Klasemen](https://via.placeholder.com/200) | ![Video](https://via.placeholder.com/200) |
 
 ---
 
