@@ -59,7 +59,7 @@ Bola News adalah aplikasi berita sepak bola terkini yang dirancang untuk memberi
 |---------------|--------------------|--------------------------------------------|
 | Framework     | Flutter            | ![Flutter](https://img.shields.io/badge/Flutter-v3.10-blue) |
 | Language      | Dart               | ![Dart](https://img.shields.io/badge/Dart-v2.19-blue)       |
-| Backend       | Firebase           | ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange) |
+| Backend       | Nodejs             | ![Nodejs](https://img.shields.io/badge/Firebase-Backend-orange) |
 
 ---
 
